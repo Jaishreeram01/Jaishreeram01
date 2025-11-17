@@ -6,13 +6,13 @@ Aspiring Full-Stack and Backend Developer | Passionate about building scalable w
 
 📍 Location: Chennai, India  
 🔗 Portfolio: [yourwebsite.com]  
-💌 Email: jaishreeram0107@gmail.com  
+💌 Email: [jaishreeram0107@gmail.com](mailto:jaishreeram0107@gmail.com)  
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-driven software developer, energetic learner, and competitive coder—focused on building high-performance full-stack applications and backend services with modern technologies. Always striving to deepen my understanding of JavaScript, databases, and system design.  
+I'm a self-driven software developer, energetic learner, and competitive coder - focused on building high-performance full-stack applications and backend services with modern technologies. Always striving to deepen my understanding of JavaScript, databases, and system design.  
 Winner of top technical coding events, now preparing for developer interviews and contributing to open-source projects.
 
 ---
