@@ -1,67 +1,89 @@
-<!-- Banner and Quick Intro -->
-![Banner](https://raw.githubusercontent.com/jamezmca/learn-to-code/main/assets/logos.png)
+<!-- Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jamezmca/learn-to-code/main/assets/logos.png" alt="Banner"/>
+</div>
 
-# Hi, I'm Jai Shree Ram 👋
-Aspiring Full-Stack and Backend Developer | Passionate about building scalable web apps, mastering JavaScript, and tackling competitive coding challenges
+<!-- Greeting Section -->
+<div id="greetings" align="center">
+<h1>
+  Hi, I'm Jai Shree Ram
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h3>Aspiring Full-Stack & Backend Developer</h3>
 
-📍 Location: Chennai, India  
-🔗 Portfolio: [yourwebsite.com]  
-💌 Email: [jaishreeram0107@gmail.com](mailto:jaishreeram0107@gmail.com)  
+<p>📍 Chennai, India · 🔗 <a href="yourwebsite.com">Portfolio</a> · 💌 <a href="mailto:jaishreeram0107@gmail.com">Email Me</a></p>
+
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/jai-shree-ram/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/thejsr._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Jaishreeram01&style=flat-square&color=blue" />
+</div>
 
 ---
 
 ## 🚀 About Me
-
-I'm a self-driven software developer, energetic learner, and competitive coder - focused on building high-performance full-stack applications and backend services with modern technologies. Always striving to deepen my understanding of JavaScript, databases, and system design.  
-Winner of top technical coding events, now preparing for developer interviews and contributing to open-source projects.
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Place – Cognebula Coding Event 
-- 🥇 1st Place – Perkistint Coding Event
-- 🥇 1st Place – Flarendo Coding Event
-- 📚 Contributor to open-source and technical learning communities
+<div align="center">
+I'm a self-driven software developer, energetic learner, and competitive coder — focused on building high-performance full-stack applications.  
+Winner of top technical coding events, currently leveling up backend skills, system design, and open-source contributions.
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## :fire: GitHub Stats :
+<div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaishreeram01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishreeram01&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jaishreeram01&theme=radical)
+<!-- Stats Side by Side -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishreeram01&layout=compact&theme=transparent"/>
+
+  <img height="200" src="https://streak-stats.demolab.com?user=Jaishreeram01&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6"/>
+
+</div>
+
+</div>
 
 ---
 
 ## 🧩 Coding Platform Stats
+<div align="center">
 
 | LeetCode | GeeksforGeeks |
 |----------|---------------|
-| ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/jaishreeramjs?theme=dark) | [![GeeksforGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=jaishreez5hu)](https://www.geeksforgeeks.org/user/jaishreez5hu/) |
+| <img src="https://leetcode-badge-sage.vercel.app/badge/jaishreeramjs?theme=dark"/> | <a href="https://www.geeksforgeeks.org/user/jaishreez5hu/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jaishreez5hu"/></a> |
+
+</div>
 
 ---
 
-## 📫 Contact 
 
--- Connect with me on [Instagram](https://instagram.com/thejsr._/) · [LinkedIn](https://linkedin.com/in/jai-shree-ram/)
-
----
 
 
 
