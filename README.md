@@ -56,19 +56,21 @@ Winner of top technical coding events, currently leveling up backend skills, sys
 
 ---
 
-## :fire: GitHub Stats :
+## 🔥 GitHub Stats
+
 <div align="center">
 
-<!-- Stats Side by Side -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<!-- GitHub Statistics -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jaishreeram01&show_icons=true&theme=transparent" height="180" alt="GitHub Stats"/>
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishreeram01&layout=compact&theme=transparent"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishreeram01&layout=compact&theme=transparent" height="180" alt="Top Languages"/>
 
-  <img height="200" src="https://streak-stats.demolab.com?user=Jaishreeram01&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Jaishreeram01&theme=transparent&hide_border=true" height="180" alt="Streak Stats"/>
 
 </div>
 
-</div>
 
 ---
 
