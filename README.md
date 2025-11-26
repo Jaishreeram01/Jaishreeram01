@@ -60,16 +60,17 @@ Winner of top technical coding events, currently leveling up backend skills, sys
 
 <div align="center">
 
-<!-- GitHub Statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=Jaishreeram01&show_icons=true&theme=transparent" height="180" alt="GitHub Stats"/>
+<!-- Simple summary badges (Shields.io - reliable) -->
+<img src="https://img.shields.io/badge/github-Jaishreeram01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+<img src="https://img.shields.io/badge/followers-?style=for-the-badge&logo=github&color=2b9348&link=https://github.com/Jaishreeram01" alt="Followers" height="28"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishreeram01&layout=compact&theme=transparent" height="180" alt="Top Languages"/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Jaishreeram01&theme=transparent&hide_border=true" height="180" alt="Streak Stats"/>
+<!-- Contribution / Activity Graph -->
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaishreeram01&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
+
+
 
 
 ---
